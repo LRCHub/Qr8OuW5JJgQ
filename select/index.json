@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Boys (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-10T14:49:30.359554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Like Boys (Remastered)",
+      "artist": "Missing Persons",
+      "has_synced": true,
+      "path": "select/01_I_Like_Boys_(Remastered)_Missing_Persons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bentswood Boys - Remastered",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/02_Bentswood_Boys_-_Remastered_Suede.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Modern Boys (Remastered)",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/03_Modern_Boys_(Remastered)_Suede.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Boys (Remastered)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/04_Beautiful_Boys_(Remastered)_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stories For Boys - Remastered",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/05_Stories_For_Boys_-_Remastered_U2.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boys - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Boys_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Time Boys - Remastered",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_Good_Time_Boys_-_Remastered_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stories For Boys - Remastered 2008",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_Stories_For_Boys_-_Remastered_2008_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Time Boys (Remastered)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_Good_Time_Boys_(Remastered)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Boys - Remastered 2010",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Boys_-_Remastered_2010_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Boys (Remastered 2010)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Boys_(Remastered_2010)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Three Imaginary Boys - Remastered",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_Three_Imaginary_Boys_-_Remastered_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "English Boys (Remastered)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/13_English_Boys_(Remastered)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tattooed Love Boys (Remastered)",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/14_Tattooed_Love_Boys_(Remastered)_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boys (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Boys_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Call In the Night Boys (Remastered 1997)",
+      "artist": "Talk Talk",
+      "has_synced": true,
+      "path": "select/16_Call_In_the_Night_Boys_(Remastered_1997)_Talk_Talk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Time Boys (Remastered 2003)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/17_Good_Time_Boys_(Remastered_2003)_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOYS",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_BOYS_The_Beatles.txt"
+    }
+  ]
+}
